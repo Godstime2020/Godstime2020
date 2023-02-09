@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Godstime2020
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning React.js, d3.js, node.js
-- 💞️ I’m looking to collaborate on building a mobile app
+- 👀 I’m a web/blockchain developer with a strong understanding of computer science fundamental and best practices in software engineering
+- 🌱 I’m currently learning security auditing in blockchain development
+- 💞️ I’m looking to collaborate on C++, TypeScript/Javascript or solidity based projects
 - 📫 you can reach me at godstimeinstein@gmail.com
 
 <!---
