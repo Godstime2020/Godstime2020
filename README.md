@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Godstime2020
-- 👀 I’m a web/blockchain developer with a strong understanding of computer science fundamental, distributed systems and best practices in software engineering
-- 💞️ I’m looking to collaborate on C++, TypeScript/Javascript or solidity based projects
-- 📫 you can reach me at godstimeokomayin@gmail.com
-
-<!---
-Godstime2020/Godstime2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Godstime2020  
+- 💻 I’m a Frontend Engineer skilled in **JavaScript, TypeScript, React, React Native, Next.js, Redux, and Zustand**  
+- ⚙️ I also work with **Node.js, Express, SQL, Postman, and Swagger**, with a solid foundation in **Data Structures & Algorithms, Time & Space Complexity, and Automata Theory**  
+- 🤝 I’m looking to collaborate on frontend and full-stack projects that make real-world impact  
+- 📫 You can reach me at **godstimeokomayin@gmail.com**  
