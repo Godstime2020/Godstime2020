@@ -4,7 +4,7 @@
 
 ⚙️ Skilled in modern tools and frameworks across the stack:  
 - JavaScript, TypeScript, React, React Native, Next.js  
-- Node.js, Express, SQL  
+- Node.js, Express, Go, Python, SQL  
 - Postman, Swagger  
 - Strong grounding in Data Structures & Algorithms, Time & Space Complexity, and Automata Theory  
 
